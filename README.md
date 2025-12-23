@@ -30,6 +30,10 @@ The website presents personal, academic, and technical information in a clean,
 structured, and visually engaging layout. It demonstrates fundamental front-end
 development skills without using external libraries or frameworks.
 
+
+### Live Demo: 
+https://shishi2003.github.io/SCT_WD_01/
+
 ---
 
 **Submitted by:** Shishira M A
